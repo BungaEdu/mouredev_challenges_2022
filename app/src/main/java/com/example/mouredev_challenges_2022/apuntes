@@ -1,0 +1,7 @@
+//el step para app
+fun main() {
+    val d = 7
+    for (i in 30 downTo 0 step d) {
+        print("$i ")
+    }
+}
